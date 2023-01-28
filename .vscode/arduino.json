@@ -1,0 +1,7 @@
+{
+    "sketch": "arduino\\smoke-light-controller.ino",
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "port": "COM11",
+    "programmer": "arduino:avrispmkii"
+}
